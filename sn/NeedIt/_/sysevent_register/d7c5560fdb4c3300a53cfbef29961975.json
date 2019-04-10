@@ -1,0 +1,20 @@
+{
+  "description": "Test Event registry",
+  "event_name": "x_58872_needit.needit_application_event",
+  "fired_by": "Business rule",
+  "queue": "",
+  "suffix": "needit_application_event",
+  "sys_class_name": "sysevent_register",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-03-12 09:24:46",
+  "sys_id": "d7c5560fdb4c3300a53cfbef29961975",
+  "sys_mod_count": 0,
+  "sys_name": "x_58872_needit.needit_application_event",
+  "sys_package": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_policy": "",
+  "sys_scope": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_update_name": "sysevent_register_d7c5560fdb4c3300a53cfbef29961975",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-03-12 09:24:46",
+  "table": "x_317910_innovate_innovate"
+}

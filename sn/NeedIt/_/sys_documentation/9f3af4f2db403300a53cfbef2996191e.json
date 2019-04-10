@@ -1,0 +1,23 @@
+{
+  "element": "current",
+  "help": "",
+  "hint": "",
+  "label": "Record",
+  "language": "en",
+  "name": "var__m_sys_hub_flow_input_df3af4f2db403300a53cfbef29961919",
+  "plural": "",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "system",
+  "sys_created_on": "2019-03-11 08:05:03",
+  "sys_id": "9f3af4f2db403300a53cfbef2996191e",
+  "sys_mod_count": 0,
+  "sys_name": "Record",
+  "sys_package": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_policy": "",
+  "sys_scope": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_update_name": "sys_documentation_var__m_sys_hub_flow_input_df3af4f2db403300a53cfbef29961919_current_en",
+  "sys_updated_by": "system",
+  "sys_updated_on": "2019-03-11 08:05:03",
+  "url": "",
+  "url_target": ""
+}

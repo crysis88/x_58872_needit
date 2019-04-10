@@ -1,0 +1,23 @@
+{
+  "element": "u_requested_for",
+  "help": "",
+  "hint": "",
+  "label": "Requested for",
+  "language": "en",
+  "name": "x_58872_needit_historic_",
+  "plural": "Requested for",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2017-03-29 19:59:31",
+  "sys_id": "9bc1b0314fb13200cb281b818110c7a7",
+  "sys_mod_count": 0,
+  "sys_name": "Requested for",
+  "sys_package": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_policy": "",
+  "sys_scope": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_update_name": "sys_documentation_x_58872_needit_historic__u_requested_for_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2017-03-29 19:59:31",
+  "url": "",
+  "url_target": ""
+}

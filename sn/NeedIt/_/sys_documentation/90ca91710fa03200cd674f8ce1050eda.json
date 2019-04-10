@@ -1,0 +1,23 @@
+{
+  "element": "u_what_needed",
+  "help": "",
+  "hint": "",
+  "label": "What needed",
+  "language": "en",
+  "name": "x_58872_needit_needit",
+  "plural": "What needed",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2017-01-26 19:39:57",
+  "sys_id": "90ca91710fa03200cd674f8ce1050eda",
+  "sys_mod_count": 0,
+  "sys_name": "What needed",
+  "sys_package": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_policy": "",
+  "sys_scope": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_update_name": "sys_documentation_x_58872_needit_needit_u_what_needed_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2017-01-26 19:39:57",
+  "url": "",
+  "url_target": ""
+}

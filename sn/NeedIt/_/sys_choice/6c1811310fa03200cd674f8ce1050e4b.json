@@ -1,0 +1,19 @@
+{
+  "dependent_value": "",
+  "element": "u_request_type",
+  "hint": "",
+  "inactive": false,
+  "label": "Facilities",
+  "language": "en",
+  "name": "x_58872_needit_needit",
+  "sequence": 1,
+  "sys_created_by": "admin",
+  "sys_created_on": "2017-01-26 19:28:14",
+  "sys_domain": "global",
+  "sys_domain_path": "/",
+  "sys_id": "6c1811310fa03200cd674f8ce1050e4b",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2017-02-09 21:19:52",
+  "value": "facilities"
+}

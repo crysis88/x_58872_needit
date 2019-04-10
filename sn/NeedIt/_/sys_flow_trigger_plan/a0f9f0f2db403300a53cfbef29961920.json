@@ -1,0 +1,19 @@
+{
+  "binding_strategy": "com.snc.process_flow.engine.binding.OncePerRecord",
+  "plan": "{\"persistor\":{\"@class\":\".ChunkingPlanPersistor\",\"table\":\"sys_flow_trigger_plan\",\"id\":\"a0f9f0f2db403300a53cfbef29961920\",\"name\":\"plan\"}}",
+  "plan_id": "8029b8b2db403300a53cfbef29961942",
+  "snapshot": "df3af4f2db403300a53cfbef29961919",
+  "sys_class_name": "sys_flow_trigger_plan",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-03-11 08:03:47",
+  "sys_id": "a0f9f0f2db403300a53cfbef29961920",
+  "sys_mod_count": 0,
+  "sys_name": "20f9f0f2db403300a53cfbef2996191e",
+  "sys_package": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_policy": "",
+  "sys_scope": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_update_name": "sys_flow_trigger_plan_a0f9f0f2db403300a53cfbef29961920",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-03-11 08:03:47",
+  "trigger": "20f9f0f2db403300a53cfbef2996191e"
+}

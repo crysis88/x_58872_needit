@@ -1,0 +1,20 @@
+{
+  "operation": "read",
+  "source_scope": "6ead8e780f603200cd674f8ce1050ed1",
+  "status": "allowed",
+  "sys_class_name": "sys_scope_privilege",
+  "sys_created_by": "admin",
+  "sys_created_on": "2017-03-16 21:29:25",
+  "sys_id": "95b90e619f653200bde5f79ff57fcf4a",
+  "sys_mod_count": 1,
+  "sys_name": "problem",
+  "sys_package": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_policy": "",
+  "sys_scope": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_update_name": "sys_scope_privilege_95b90e619f653200bde5f79ff57fcf4a",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2017-03-16 21:36:22",
+  "target_name": "problem",
+  "target_scope": "global",
+  "target_type": "sys_db_object"
+}

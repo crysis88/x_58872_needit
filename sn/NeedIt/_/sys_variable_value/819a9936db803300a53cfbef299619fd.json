@@ -1,0 +1,14 @@
+{
+  "document": "wf_activity",
+  "document_key": "1e19d176db803300a53cfbef2996194f",
+  "order": 1,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-03-11 10:26:21",
+  "sys_id": "819a9936db803300a53cfbef299619fd",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-03-11 10:26:21",
+  "value": "current.u_description = 'Updated description using script';",
+  "variable": "c35ddef20a0a0ba96248a7090eccd518"
+}

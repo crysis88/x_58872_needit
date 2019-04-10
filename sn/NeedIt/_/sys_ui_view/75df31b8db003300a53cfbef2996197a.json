@@ -1,0 +1,20 @@
+{
+  "group": "",
+  "hidden": false,
+  "name": "Myhomepage",
+  "roles": "",
+  "sys_class_name": "sys_ui_view",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-03-05 08:01:18",
+  "sys_id": "75df31b8db003300a53cfbef2996197a",
+  "sys_mod_count": 0,
+  "sys_name": "Myhomepage",
+  "sys_package": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_policy": "",
+  "sys_scope": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_update_name": "sys_ui_view_75df31b8db003300a53cfbef2996197a",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-03-05 08:01:18",
+  "title": "Myhomepage",
+  "user": ""
+}

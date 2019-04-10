@@ -1,0 +1,14 @@
+{
+  "document": "wf_activity",
+  "document_key": "27a5d1f2db803300a53cfbef299619b9",
+  "order": 2050,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-03-11 10:04:56",
+  "sys_id": "a7a5d1f2db803300a53cfbef299619bd",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-03-11 10:04:56",
+  "value": "// Set the variable 'answer' to a comma-separated list of user ids and/or group ids or an array of user/group ids to add as approvers.\r\n//\r\n// For example:\r\n//       answer = [];\r\n//       answer.push('id1');\r\n//       answer.push('id2');\r\n",
+  "variable": "c35e582f0a0a0ba96248a70985207e63"
+}

@@ -1,0 +1,17 @@
+{
+  "sys_class_name": "sys_security_acl_role",
+  "sys_created_by": "admin",
+  "sys_created_on": "2017-03-15 21:53:11",
+  "sys_id": "c62505159fe13200bde5f79ff57fcfd3",
+  "sys_mod_count": 0,
+  "sys_name": "x_58872_needit_needit.x_58872_needit.needit_user",
+  "sys_package": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_policy": "",
+  "sys_scope": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_security_acl": "746f70159fe13200bde5f79ff57fcf0e",
+  "sys_update_name": "sys_security_acl_role_c62505159fe13200bde5f79ff57fcfd3",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2017-03-15 21:53:11",
+  "sys_user_role": "4e42fb8d0fa83200cd674f8ce1050e72",
+  "transaction_id": ""
+}

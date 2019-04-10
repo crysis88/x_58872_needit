@@ -1,0 +1,19 @@
+{
+  "dependent_value": "",
+  "element": "state",
+  "hint": "",
+  "inactive": false,
+  "label": "Approved",
+  "language": "en",
+  "name": "x_58872_needit_needit",
+  "sequence": 2,
+  "sys_created_by": "admin",
+  "sys_created_on": "2017-01-26 20:14:39",
+  "sys_domain": "global",
+  "sys_domain_path": "/",
+  "sys_id": "28b229350fa03200cd674f8ce1050eac",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2017-01-26 20:14:39",
+  "value": 15
+}

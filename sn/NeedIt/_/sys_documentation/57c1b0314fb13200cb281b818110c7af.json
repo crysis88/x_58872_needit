@@ -1,0 +1,23 @@
+{
+  "element": "u_short_description",
+  "help": "",
+  "hint": "",
+  "label": "Short description",
+  "language": "en",
+  "name": "x_58872_needit_historic_",
+  "plural": "Short descriptions",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2017-03-29 19:59:32",
+  "sys_id": "57c1b0314fb13200cb281b818110c7af",
+  "sys_mod_count": 0,
+  "sys_name": "Short description",
+  "sys_package": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_policy": "",
+  "sys_scope": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_update_name": "sys_documentation_x_58872_needit_historic__u_short_description_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2017-03-29 19:59:32",
+  "url": "",
+  "url_target": ""
+}

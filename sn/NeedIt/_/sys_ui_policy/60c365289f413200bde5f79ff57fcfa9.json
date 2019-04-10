@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "conditions": "u_what_needed=other^EQ",
+  "description": "",
+  "global": true,
+  "inherit": false,
+  "isolate_script": false,
+  "model_id": "",
+  "model_table": "",
+  "on_load": true,
+  "order": 100,
+  "reverse_if_false": true,
+  "run_scripts": true,
+  "script_false": {
+    "____see": "sn/NeedIt/UI Policy/x_58872_needit_needit/active_true/NeedIt show or hide Other field/script_false.js"
+  },
+  "script_true": {
+    "____see": "sn/NeedIt/UI Policy/x_58872_needit_needit/active_true/NeedIt show or hide Other field/script_true.js"
+  },
+  "set_values": "",
+  "short_description": "NeedIt show or hide Other field",
+  "sys_class_name": "sys_ui_policy",
+  "sys_created_by": "admin",
+  "sys_created_on": "2017-02-16 19:38:52",
+  "sys_domain": "global",
+  "sys_domain_path": "/",
+  "sys_id": "60c365289f413200bde5f79ff57fcfa9",
+  "sys_mod_count": 6,
+  "sys_name": "NeedIt show or hide Other field",
+  "sys_overrides": "",
+  "sys_package": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_policy": "",
+  "sys_scope": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_update_name": "sys_ui_policy_60c365289f413200bde5f79ff57fcfa9",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2017-02-17 02:18:15",
+  "table": "x_58872_needit_needit",
+  "ui_type": 10,
+  "view": ""
+}
