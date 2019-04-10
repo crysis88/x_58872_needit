@@ -1,0 +1,23 @@
+{
+  "element": "u_when_needed",
+  "help": "",
+  "hint": "",
+  "label": "When needed",
+  "language": "en",
+  "name": "x_58872_needit_needit",
+  "plural": "When needed",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2017-01-26 19:08:23",
+  "sys_id": "3d8351bd0f603200cd674f8ce1050e4c",
+  "sys_mod_count": 0,
+  "sys_name": "When needed",
+  "sys_package": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_policy": "",
+  "sys_scope": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_update_name": "sys_documentation_x_58872_needit_needit_u_when_needed_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2017-01-26 19:08:23",
+  "url": "",
+  "url_target": ""
+}

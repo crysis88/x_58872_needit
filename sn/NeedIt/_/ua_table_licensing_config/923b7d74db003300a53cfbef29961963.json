@@ -1,0 +1,23 @@
+{
+  "is_fulfillment": false,
+  "license_condition": "",
+  "license_model": "none",
+  "license_roles": "",
+  "name": "x_58872_needit_needit",
+  "op_delete": true,
+  "op_insert": true,
+  "op_update": true,
+  "owner_condition": "",
+  "sys_class_name": "ua_table_licensing_config",
+  "sys_created_by": "admin",
+  "sys_created_on": "2017-01-24 22:46:35",
+  "sys_id": "923b7d74db003300a53cfbef29961963",
+  "sys_mod_count": 0,
+  "sys_name": "x_58872_needit_needit",
+  "sys_package": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_policy": "",
+  "sys_scope": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_update_name": "ua_table_licensing_config_923b7d74db003300a53cfbef29961963",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2017-01-24 22:46:35"
+}

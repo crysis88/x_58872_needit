@@ -1,0 +1,18 @@
+{
+  "directory": "update",
+  "documentkey": "e1bc2a030fe03200cd674f8ce1050ea4",
+  "payload": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<record_update sys_domain=\"global\" table=\"x_58872_needit_needit\">\n    <x_58872_needit_needit action=\"INSERT_OR_UPDATE\">\n        <active>false</active>\n        <activity_due/>\n        <additional_assignee_list/>\n        <approval>not requested</approval>\n        <approval_history/>\n        <approval_set/>\n        <assigned_to/>\n        <assignment_group/>\n        <business_duration/>\n        <business_service/>\n        <calendar_duration/>\n        <close_notes/>\n        <closed_at>2017-01-30 22:51:35</closed_at>\n        <closed_by display_value=\"System Administrator\">6816f79cc0a8016401c5a33be04be441</closed_by>\n        <cmdb_ci/>\n        <comments/>\n        <comments_and_work_notes/>\n        <company/>\n        <contact_type/>\n        <correlation_display/>\n        <correlation_id/>\n        <delivery_plan/>\n        <delivery_task/>\n        <description/>\n        <due_date/>\n        <escalation>0</escalation>\n        <expected_start/>\n        <follow_up/>\n        <group_list/>\n        <impact>3</impact>\n        <knowledge>false</knowledge>\n        <location/>\n        <made_sla>true</made_sla>\n        <new_field_1/>\n        <number>NI002004</number>\n        <opened_at>2017-01-30 22:50:27</opened_at>\n        <opened_by display_value=\"System Administrator\">6816f79cc0a8016401c5a33be04be441</opened_by>\n        <order/>\n        <parent/>\n        <priority>4</priority>\n        <reassignment_count>0</reassignment_count>\n        <rejection_goto/>\n        <short_description>When does the ESPP window close?</short_description>\n        <skills/>\n        <sla_due/>\n        <state>3</state>\n        <sys_class_name>x_58872_needit_needit</sys_class_name>\n        <sys_created_by>admin</sys_created_by>\n        <sys_created_on>2017-01-30 22:51:35</sys_created_on>\n        <sys_domain>global</sys_domain>\n        <sys_domain_path>/</sys_domain_path>\n        <sys_id>e1bc2a030fe03200cd674f8ce1050ea4</sys_id>\n        <sys_mod_count>0</sys_mod_count>\n        <sys_updated_by>admin</sys_updated_by>\n        <sys_updated_on>2017-01-30 22:51:35</sys_updated_on>\n        <time_worked/>\n        <u_request_type>legal</u_request_type>\n        <u_requested_for display_value=\"Beth Anglin\">46d44a23a9fe19810012d100cca80666</u_requested_for>\n        <u_what_needed>legal1</u_what_needed>\n        <u_when_needed>2017-05-18 21:52:02</u_when_needed>\n        <upon_approval>proceed</upon_approval>\n        <upon_reject>cancel</upon_reject>\n        <urgency>3</urgency>\n        <user_input/>\n        <variables/>\n        <watch_list/>\n        <wf_activity/>\n        <work_end/>\n        <work_notes/>\n        <work_notes_list/>\n        <work_start/>\n    </x_58872_needit_needit>\n</record_update>\n",
+  "sys_class_name": "sys_metadata_link",
+  "sys_created_by": "admin",
+  "sys_created_on": "2017-02-09 23:25:07",
+  "sys_id": "b284de569f703200bde5f79ff57fcfe6",
+  "sys_mod_count": 0,
+  "sys_name": "NI002004",
+  "sys_package": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_policy": "",
+  "sys_scope": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_update_name": "sys_metadata_link_b284de569f703200bde5f79ff57fcfe6",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2017-02-09 23:25:07",
+  "tablename": "x_58872_needit_needit"
+}

@@ -1,0 +1,20 @@
+{
+  "group": "",
+  "hidden": false,
+  "name": "User",
+  "roles": "",
+  "sys_class_name": "sys_ui_view",
+  "sys_created_by": "admin",
+  "sys_created_on": "2017-01-26 21:55:52",
+  "sys_id": "5bd975bd0fa03200cd674f8ce1050e7f",
+  "sys_mod_count": 0,
+  "sys_name": "User",
+  "sys_package": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_policy": "",
+  "sys_scope": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_update_name": "sys_ui_view_5bd975bd0fa03200cd674f8ce1050e7f",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2017-01-26 21:55:52",
+  "title": "User",
+  "user": ""
+}

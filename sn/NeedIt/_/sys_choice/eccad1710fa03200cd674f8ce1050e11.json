@@ -1,0 +1,19 @@
+{
+  "dependent_value": "",
+  "element": "u_what_needed",
+  "hint": "",
+  "inactive": true,
+  "label": "Your Department Choice 2",
+  "language": "en",
+  "name": "x_58872_needit_needit",
+  "sequence": 1,
+  "sys_created_by": "admin",
+  "sys_created_on": "2017-01-26 19:39:58",
+  "sys_domain": "global",
+  "sys_domain_path": "/",
+  "sys_id": "eccad1710fa03200cd674f8ce1050e11",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2017-02-08 22:44:35",
+  "value": "your_choice2"
+}

@@ -1,0 +1,21 @@
+{
+  "activity": "27a5d1f2db803300a53cfbef299619b9",
+  "condition": "activity.result == 'approved' || activity.result == 'skipped'",
+  "condition_default": "586e1fa60a0a0b5c008121ab894f2b06",
+  "condition_type": "standard",
+  "else_flag": false,
+  "error": false,
+  "event": false,
+  "event_name": "",
+  "is_positive": true,
+  "name": "Approved",
+  "order": 1,
+  "short_description": "Approval request was approved",
+  "skip_during_generate": false,
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-03-11 10:04:56",
+  "sys_id": "a3a5d1f2db803300a53cfbef299619be",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-03-11 10:04:56"
+}

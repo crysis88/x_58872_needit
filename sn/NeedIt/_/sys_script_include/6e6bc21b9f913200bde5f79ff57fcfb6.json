@@ -1,0 +1,23 @@
+{
+  "access": "package_private",
+  "active": true,
+  "api_name": "x_58872_needit.NeedItUtils",
+  "client_callable": false,
+  "description": "Utils Script Include for the NeedIt application.",
+  "name": "NeedItUtils",
+  "script": {
+    "____see": "sn/NeedIt/Script Include/active_true/x_58872_needit.NeedItUtils.js"
+  },
+  "sys_class_name": "sys_script_include",
+  "sys_created_by": "admin",
+  "sys_created_on": "2017-03-09 21:52:03",
+  "sys_id": "6e6bc21b9f913200bde5f79ff57fcfb6",
+  "sys_mod_count": 0,
+  "sys_name": "NeedItUtils",
+  "sys_package": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_policy": "read",
+  "sys_scope": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_update_name": "sys_script_include_6e6bc21b9f913200bde5f79ff57fcfb6",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2017-03-09 21:52:03"
+}

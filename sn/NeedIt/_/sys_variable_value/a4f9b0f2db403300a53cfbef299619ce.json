@@ -1,0 +1,14 @@
+{
+  "document": "sys_hub_action_instance",
+  "document_key": "bce970f2db403300a53cfbef299619d5",
+  "order": 100,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-03-11 08:03:46",
+  "sys_id": "a4f9b0f2db403300a53cfbef299619ce",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-03-11 08:03:46",
+  "value": "state=14^assigned_to={\"display\":\"Beth Anglin\",\"value\":\"46d44a23a9fe19810012d100cca80666\"}",
+  "variable": "02d01916c31332002841b63b12d3aeee"
+}
