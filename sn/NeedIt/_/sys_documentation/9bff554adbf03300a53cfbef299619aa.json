@@ -1,0 +1,23 @@
+{
+  "element": "u_string_1",
+  "help": "",
+  "hint": "",
+  "label": "Demo",
+  "language": "en",
+  "name": "x_58872_needit_needit",
+  "plural": "Demos",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-04-15 09:41:37",
+  "sys_id": "9bff554adbf03300a53cfbef299619aa",
+  "sys_mod_count": 0,
+  "sys_name": "Demo",
+  "sys_package": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_policy": "",
+  "sys_scope": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_update_name": "sys_documentation_x_58872_needit_needit_u_string_1_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-04-15 09:41:37",
+  "url": "",
+  "url_target": ""
+}
