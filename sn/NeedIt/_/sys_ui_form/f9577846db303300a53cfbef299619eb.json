@@ -1,0 +1,22 @@
+{
+  "name": "sys_hub_flow_input",
+  "roles": "",
+  "sys_class_name": "sys_ui_form",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-04-15 06:44:02",
+  "sys_domain": "global",
+  "sys_domain_path": "/",
+  "sys_id": "f9577846db303300a53cfbef299619eb",
+  "sys_mod_count": 0,
+  "sys_name": "sys_hub_flow_input",
+  "sys_overrides": "",
+  "sys_package": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_policy": "",
+  "sys_scope": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_update_name": "sys_ui_form_sections_f9577846db303300a53cfbef299619eb",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-04-15 06:44:02",
+  "sys_user": "",
+  "view": "Default view",
+  "view_name": ""
+}
