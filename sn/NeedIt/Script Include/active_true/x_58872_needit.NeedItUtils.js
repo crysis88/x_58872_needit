@@ -3,7 +3,7 @@
  * ClassName   : sys_script_include
  * Created On  : 2017-03-09 21:52:03
  * Created By  : admin
- * Updated On  : 2017-03-09 21:52:03
+ * Updated On  : 2019-04-15 08:02:20
  * Updated By  : admin
  * URL         : /sys_script_include.do?sys_id=6e6bc21b9f913200bde5f79ff57fcfb6
  */
@@ -29,6 +29,7 @@ NeedItUtils.prototype = {
 		
 		// Create GlideDateTime objects for the current date and the passed in date
 		var rightnow = new GlideDateTime();
+gs.print(rightnow)
 		var testdate = new GlideDateTime(strDate);
 		// Get the date portion of rightnow and testdate (no timestamp)
 		var today = rightnow.getLocalDate();
