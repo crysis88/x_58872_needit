@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-05-27 10:55:00">
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-05-27 11:03:19">
 <sys_remote_update_set action="INSERT_OR_UPDATE">
 <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
 <application_name>NeedIt</application_name>
@@ -20,11 +20,11 @@
 <summary/>
 <sys_class_name>sys_remote_update_set</sys_class_name>
 <sys_created_by>admin</sys_created_by>
-<sys_created_on>2019-05-27 10:54:59</sys_created_on>
-<sys_id>d3830a2b4fa13300a3cc121f9310c733</sys_id>
+<sys_created_on>2019-05-27 11:03:18</sys_created_on>
+<sys_id>8175ce6b4fa13300a3cc121f9310c741</sys_id>
 <sys_mod_count>0</sys_mod_count>
 <sys_updated_by>admin</sys_updated_by>
-<sys_updated_on>2019-05-27 10:54:59</sys_updated_on>
+<sys_updated_on>2019-05-27 11:03:18</sys_updated_on>
 <update_set display_value=""/>
 <update_source display_value=""/>
 <updated/>
@@ -34,18 +34,70 @@
 <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
 <category>customer</category>
 <comments/>
+<name>sys_dictionary_option_x_58872_needit_u_glide_duration_2</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="DELETE" element="x_58872_needit_u_glide_duration_2" table="option"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes/><audit>false</audit><calculation/><choice/><choice_field/><choice_table/><column_label>duration</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>x_58872_needit_u_glide_duration_2</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="">glide_duration</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>option</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-05-27 10:44:58</sys_created_on><sys_id>fc41c2e74fa13300a3cc121f9310c756</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Duration</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_dictionary_option_x_58872_needit_u_glide_duration_2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-05-27 10:51:30</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>162458033</payload_hash>
+<remote_update_set display_value="Demo update set 2">8175ce6b4fa13300a3cc121f9310c741</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-05-27 11:03:18</sys_created_on>
+<sys_id>0975ce6b4fa13300a3cc121f9310c741</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16af8eb66900000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-05-27 11:03:18</sys_updated_on>
+<table>option</table>
+<target_name>label.x_58872_needit_u_glide_duration_2</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>88f28a2b19a133009e4e7ac1097cf721</update_guid>
+<update_guid_history>88f28a2b19a133009e4e7ac1097cf721:162458033,5cc2862ba4a133003dba7b078e565578:1109496029,7841c2e771a1330017b4c6acf346e462:-1802923204</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_option_x_58872_needit_u_glide_date_1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="DELETE" element="x_58872_needit_u_glide_date_1" table="option"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes/><audit>false</audit><calculation/><choice/><choice_field/><choice_table/><column_label>date</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>x_58872_needit_u_glide_date_1</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="">glide_date</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>option</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-05-27 10:44:58</sys_created_on><sys_id>b441c2e74fa13300a3cc121f9310c753</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Date</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_dictionary_option_x_58872_needit_u_glide_date_1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-05-27 10:51:19</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>567600037</payload_hash>
+<remote_update_set display_value="Demo update set 2">8175ce6b4fa13300a3cc121f9310c741</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-05-27 11:03:18</sys_created_on>
+<sys_id>4575ce6b4fa13300a3cc121f9310c741</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16af8eb343f0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-05-27 11:03:18</sys_updated_on>
+<table>option</table>
+<target_name>label.x_58872_needit_u_glide_date_1</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>b8e20a2beaa133005f23612c17a4fee7</update_guid>
+<update_guid_history>b8e20a2beaa133005f23612c17a4fee7:567600037,35b2462b02a13300d188fcc4a481e260:1670310097,bc41c2e707a13300afaa32a5b39ad460:-1073568382</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+<category>customer</category>
+<comments/>
 <name>sys_documentation_option_x_58872_needit_u_glide_duration_2_en</name>
 <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation action="DELETE" element="x_58872_needit_u_glide_duration_2" label="Duration" language="en" table="option"><sys_documentation action="DELETE"><element>x_58872_needit_u_glide_duration_2</element><help/><hint/><label>Duration</label><language>en</language><name>option</name><plural>Durations</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-05-27 10:44:58</sys_created_on><sys_id>f841c2e74fa13300a3cc121f9310c758</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Duration</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_documentation_option_x_58872_needit_u_glide_duration_2_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-05-27 10:51:30</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
 <payload_hash>-776373625</payload_hash>
-<remote_update_set display_value="Demo update set 2">d3830a2b4fa13300a3cc121f9310c733</remote_update_set>
+<remote_update_set display_value="Demo update set 2">8175ce6b4fa13300a3cc121f9310c741</remote_update_set>
 <replace_on_upgrade>false</replace_on_upgrade>
 <sys_created_by>admin</sys_created_by>
-<sys_created_on>2019-05-27 10:54:59</sys_created_on>
-<sys_id>17830a2b4fa13300a3cc121f9310c734</sys_id>
+<sys_created_on>2019-05-27 11:03:18</sys_created_on>
+<sys_id>8d75ce6b4fa13300a3cc121f9310c741</sys_id>
 <sys_mod_count>0</sys_mod_count>
 <sys_recorded_at>16af8eb666c0000001</sys_recorded_at>
 <sys_updated_by>admin</sys_updated_by>
-<sys_updated_on>2019-05-27 10:54:59</sys_updated_on>
+<sys_updated_on>2019-05-27 11:03:18</sys_updated_on>
 <table>option</table>
 <target_name>label.x_58872_needit_u_glide_duration_2</target_name>
 <type>Field Label</type>
@@ -63,73 +115,21 @@
 <name>sys_documentation_option_x_58872_needit_u_glide_date_1_en</name>
 <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation action="DELETE" element="x_58872_needit_u_glide_date_1" label="Date" language="en" table="option"><sys_documentation action="DELETE"><element>x_58872_needit_u_glide_date_1</element><help/><hint/><label>Date</label><language>en</language><name>option</name><plural>Dates</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-05-27 10:44:58</sys_created_on><sys_id>fc41c2e74fa13300a3cc121f9310c754</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Date</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_documentation_option_x_58872_needit_u_glide_date_1_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-05-27 10:51:20</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
 <payload_hash>258656819</payload_hash>
-<remote_update_set display_value="Demo update set 2">d3830a2b4fa13300a3cc121f9310c733</remote_update_set>
+<remote_update_set display_value="Demo update set 2">8175ce6b4fa13300a3cc121f9310c741</remote_update_set>
 <replace_on_upgrade>false</replace_on_upgrade>
 <sys_created_by>admin</sys_created_by>
-<sys_created_on>2019-05-27 10:54:59</sys_created_on>
-<sys_id>53830a2b4fa13300a3cc121f9310c734</sys_id>
+<sys_created_on>2019-05-27 11:03:18</sys_created_on>
+<sys_id>c975ce6b4fa13300a3cc121f9310c741</sys_id>
 <sys_mod_count>0</sys_mod_count>
 <sys_recorded_at>16af8eb33e60000001</sys_recorded_at>
 <sys_updated_by>admin</sys_updated_by>
-<sys_updated_on>2019-05-27 10:54:59</sys_updated_on>
+<sys_updated_on>2019-05-27 11:03:18</sys_updated_on>
 <table>option</table>
 <target_name>label.x_58872_needit_u_glide_date_1</target_name>
 <type>Field Label</type>
 <update_domain>global</update_domain>
 <update_guid>f4e20a2b9da1330037bcb2979c8780e5</update_guid>
 <update_guid_history>f4e20a2b9da1330037bcb2979c8780e5:258656819,75b2462b7ea13300794db29561eda35e:-921401269,f041c2e7b9a13300c2fed861e0e61c64:-2071242613</update_guid_history>
-<update_set display_value=""/>
-<view/>
-</sys_update_xml>
-<sys_update_xml action="INSERT_OR_UPDATE">
-<action>DELETE</action>
-<application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
-<category>customer</category>
-<comments/>
-<name>sys_dictionary_option_x_58872_needit_u_glide_date_1</name>
-<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="DELETE" element="x_58872_needit_u_glide_date_1" table="option"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes/><audit>false</audit><calculation/><choice/><choice_field/><choice_table/><column_label>date</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>x_58872_needit_u_glide_date_1</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="">glide_date</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>option</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-05-27 10:44:58</sys_created_on><sys_id>b441c2e74fa13300a3cc121f9310c753</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Date</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_dictionary_option_x_58872_needit_u_glide_date_1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-05-27 10:51:19</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
-<payload_hash>567600037</payload_hash>
-<remote_update_set display_value="Demo update set 2">d3830a2b4fa13300a3cc121f9310c733</remote_update_set>
-<replace_on_upgrade>false</replace_on_upgrade>
-<sys_created_by>admin</sys_created_by>
-<sys_created_on>2019-05-27 10:54:59</sys_created_on>
-<sys_id>97830a2b4fa13300a3cc121f9310c733</sys_id>
-<sys_mod_count>0</sys_mod_count>
-<sys_recorded_at>16af8eb343f0000001</sys_recorded_at>
-<sys_updated_by>admin</sys_updated_by>
-<sys_updated_on>2019-05-27 10:54:59</sys_updated_on>
-<table>option</table>
-<target_name>label.x_58872_needit_u_glide_date_1</target_name>
-<type>Dictionary</type>
-<update_domain>global</update_domain>
-<update_guid>b8e20a2beaa133005f23612c17a4fee7</update_guid>
-<update_guid_history>b8e20a2beaa133005f23612c17a4fee7:567600037,35b2462b02a13300d188fcc4a481e260:1670310097,bc41c2e707a13300afaa32a5b39ad460:-1073568382</update_guid_history>
-<update_set display_value=""/>
-<view/>
-</sys_update_xml>
-<sys_update_xml action="INSERT_OR_UPDATE">
-<action>DELETE</action>
-<application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
-<category>customer</category>
-<comments/>
-<name>sys_dictionary_option_x_58872_needit_u_glide_duration_2</name>
-<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="DELETE" element="x_58872_needit_u_glide_duration_2" table="option"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes/><audit>false</audit><calculation/><choice/><choice_field/><choice_table/><column_label>duration</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>x_58872_needit_u_glide_duration_2</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="">glide_duration</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>option</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-05-27 10:44:58</sys_created_on><sys_id>fc41c2e74fa13300a3cc121f9310c756</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Duration</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_dictionary_option_x_58872_needit_u_glide_duration_2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-05-27 10:51:30</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
-<payload_hash>162458033</payload_hash>
-<remote_update_set display_value="Demo update set 2">d3830a2b4fa13300a3cc121f9310c733</remote_update_set>
-<replace_on_upgrade>false</replace_on_upgrade>
-<sys_created_by>admin</sys_created_by>
-<sys_created_on>2019-05-27 10:54:59</sys_created_on>
-<sys_id>9f830a2b4fa13300a3cc121f9310c733</sys_id>
-<sys_mod_count>0</sys_mod_count>
-<sys_recorded_at>16af8eb66900000001</sys_recorded_at>
-<sys_updated_by>admin</sys_updated_by>
-<sys_updated_on>2019-05-27 10:54:59</sys_updated_on>
-<table>option</table>
-<target_name>label.x_58872_needit_u_glide_duration_2</target_name>
-<type>Dictionary</type>
-<update_domain>global</update_domain>
-<update_guid>88f28a2b19a133009e4e7ac1097cf721</update_guid>
-<update_guid_history>88f28a2b19a133009e4e7ac1097cf721:162458033,5cc2862ba4a133003dba7b078e565578:1109496029,7841c2e771a1330017b4c6acf346e462:-1802923204</update_guid_history>
 <update_set display_value=""/>
 <view/>
 </sys_update_xml>
